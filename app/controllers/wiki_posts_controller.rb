@@ -1,0 +1,2 @@
+class WikiPostsController < ApplicationController
+end
